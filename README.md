@@ -1,6 +1,6 @@
 ## Hi there I'm P.J.! 👋
 
-Pujan Malavia (P.J.) is a versatile and innovative Senior Data Analytics Professional with an M.S. in Analytics & Data Science and over 8 years of applied experience in ETL, data architecture, data modeling, data warehousing, data analytics, and data visualization across various legacy business intelligence and modern cloud platforms.
+##### Pujan Malavia (P.J.) is a versatile and innovative Senior Data Analytics Professional with an M.S. in Analytics & Data Science and over 8 years of applied experience in ETL, data architecture, data modeling, data warehousing, data analytics, and data visualization across various legacy business intelligence and modern cloud platforms.
 
    - I'm always open for freelance gigs and contract based opportunitites.
    - I'm looking to collaborate and create some cool data analytics & engineering content that we can share with the community.
