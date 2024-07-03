@@ -21,3 +21,4 @@ Pujan Malavia (P.J.) is a versatile and innovative Senior Data Analytics Profess
 * ### 📝 [Amazon Web Scraping (Python)](https://www.linkedin.com/pulse/amazon-web-scraping-python-pujan-malavia-p-j--zoasc/)
 * ### 📝 [Building a Uber Data Model for Data Warehousing](https://www.linkedin.com/pulse/building-uber-data-model-warehousing-pujan-malavia-p-j--zv1vc/)
 * ### 📝 [PowerBI City of Chicago Crimes Visualization](https://www.linkedin.com/pulse/user-friendly-chicago-zip-crimes-viz-pujan-malavia/?trackingId=Q9v6MqTuQl%2BzGVRzyKrT6g%3D%3D)
+* ### 📝 [PowerBI CFPB Complaints Dispute Data Visualization](https://www.linkedin.com/pulse/powerbi-cfpb-complaints-dispute-data-visualization-malavia-p-j--3q14c/?trackingId=kdeMRLOwTZyBVk2%2B3wgkgw%3D%3D)
